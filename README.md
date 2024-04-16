@@ -13,6 +13,9 @@ The files containing the data used for this project can be found here:
 
 https://github.com/galenegan/DATA-3320/tree/main/weather
 
+# Requirements
+All Data Analysis was performed using Python. All imports used are publicly available. All code was written using Google Colab. 
+
 
 
 # Data Preparation
@@ -23,6 +26,13 @@ To prepare the data, all columns besides city, date and precipitation were remov
 # Data Analysis
 
 To analyze the data, visualizations were created to compare New York City and Seattle precipitation cumulatively, yearly, and monthly. The results were summarized and communicated in a report linked below. 
+
+# Author(s)
+This project was created by Eli Gunderman as part of his Methodology of Data Science course. 
+LinkedIn profile can be found here: https://www.linkedin.com/in/eli-gunderman/
+
+# License
+No license is required to use any materials included in this project.
 
 
 ## File Locations: 
