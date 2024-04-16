@@ -22,7 +22,7 @@ To prepare the data, all columns besides city, date and precipitation were remov
 
 # Data Analysis
 
-To analyze the data, visualizations were created to compare New York City and Seattle summarily, yearly, and monthly. The results were summarized and communicated in a report linked below. 
+To analyze the data, visualizations were created to compare New York City and Seattle precipitation summarily, yearly, and monthly. The results were summarized and communicated in a report linked below. 
 
 
 ## File Locations: 
