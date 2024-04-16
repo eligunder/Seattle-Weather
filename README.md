@@ -42,3 +42,5 @@ No license is required to use any materials included in this project.
 ### File which contains exported, clean data file is called "merged_weather_data.csv"
 
 ### File which contains Data Analysis is called "data_analysis.ipynb
+
+### File which contains the communicated report is called "Communicate Project 1.docx"
