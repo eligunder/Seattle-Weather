@@ -1,4 +1,4 @@
-# Seattle-Weather
+# Seattle or New York City, Which Rains More?
 
 The purpose of this project is to determine whether it rains more in Seattle, WA or New York City, NY. 
 
